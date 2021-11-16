@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, teaching, and developing exciting projects!
 - 🌱 I’m currently studying Computer Science at the University of California, Berkeley.
 - 💞️ I’m looking to collaborate on fun projects!
-- 📫 How to reach me: Email: jaeden.quintana@berkeley.edu
+- 📫 How to reach me: Email: jaeden (dot) quintana (at) berkeley (dot) edu
 
 <!---
 tofu-tigre/tofu-tigre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
